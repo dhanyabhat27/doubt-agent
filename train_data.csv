@@ -1,0 +1,90 @@
+text,subject
+explain normalization in dbms,dbms
+what is a primary key and foreign key,dbms
+difference between sql and nosql,dbms
+what are acid properties in database,dbms
+how do joins work in sql,dbms
+what is a transaction in dbms,dbms
+explain 1nf 2nf 3nf,dbms
+what is an er diagram,dbms
+how does indexing speed up queries,dbms
+what is a view in sql,dbms
+write a sql query to find second highest salary,dbms
+difference between delete and truncate,dbms
+what is a deadlock in operating system,os
+explain process and thread difference,os
+what is virtual memory,os
+how does cpu scheduling work,os
+explain round robin scheduling,os
+what is paging and segmentation,os
+what is a semaphore,os
+explain context switching,os
+what is the critical section problem,os
+difference between kernel mode and user mode,os
+what is thrashing in memory management,os
+how does fcfs scheduling work,os
+my python for loop gives an error,python
+what is the difference between list and tuple,python
+how do i use a dictionary in python,python
+explain list comprehension,python
+what is indentation error in python,python
+how to read a file in python,python
+what are decorators in python,python
+how do python functions return values,python
+why am i getting a typeerror in my code,python
+what is a lambda function,python
+explain classes and objects in python,python
+how to handle exceptions with try except,python
+how does binary search work,dsa
+explain linked list vs array,dsa
+what is the time complexity of bubble sort,dsa
+what is a stack and a queue,dsa
+how to traverse a binary tree,dsa
+explain recursion with an example,dsa
+what is dynamic programming,dsa
+how does quicksort work,dsa
+what is a hash table,dsa
+explain bfs and dfs,dsa
+what is big o notation,dsa
+how does a heap work,dsa
+what is the osi model,networks
+difference between tcp and udp,networks
+how does dns work,networks
+what is an ip address and subnet,networks
+explain http and https,networks
+what is a router versus a switch,networks
+how does the three way handshake work,networks
+what is a firewall,networks
+explain the tcp ip model,networks
+what is a mac address,networks
+how does dhcp assign addresses,networks
+what is bandwidth and latency,networks
+when is the internal exam,admin
+what is the last date to submit the assignment,admin
+when will results be declared,admin
+how many marks are there for the lab,admin
+what is the attendance requirement,admin
+can i get an extension for the project,admin
+when is the semester exam timetable released,admin
+what is the syllabus for the internals,admin
+how do i apply for a revaluation,admin
+who is the class coordinator,admin
+is the lab record submission compulsory,admin
+what are the fees due dates,admin
+what is a join,dbms
+what is an inner join,dbms
+what is a left join,dbms
+what is a table in sql,dbms
+what is a query,dbms
+what is the weather today,general
+who won the cricket match yesterday,general
+tell me a joke,general
+how do i cook pasta,general
+what is the capital of france,general
+suggest some good movies to watch,general
+how to stay motivated while studying,general
+who is the prime minister of india,general
+how do airplanes fly,general
+what is climate change,general
+how to improve my resume,general
+what is the history of the roman empire,general
