@@ -63,9 +63,7 @@ header[data-testid="stHeader"], footer, #MainMenu,
 .block-container { max-width: 720px; padding: 32px 16px 160px 16px; }
 
 /* Empty state */
-.hello { text-align: center; padding: 96px 0 32px 0; }
-.hello svg { width: 48px; height: 48px; stroke: var(--text); fill: none; stroke-width: 2.5;
-             stroke-linecap: round; stroke-linejoin: round; }
+.hello { text-align: center; padding: 120px 0 32px 0; }
 .hello h1 {
   font-family: 'Source Serif 4', Georgia, serif !important;
   font-size: 32px; line-height: 40px; font-weight: 400;
@@ -157,13 +155,6 @@ EXAMPLES = [
     "when is the internal exam",
 ]
 
-MARK = (
-    '<svg viewBox="0 0 48 48" aria-hidden="true">'
-    '<path d="M16 17c0-4.4 3.4-7 8-7s8 2.6 8 7c0 3.4-2.2 4.8-4.4 6.2-1.8 1.2-3.6 2.4-3.6 5"/>'
-    '<circle cx="24" cy="37" r="1.6" fill="currentColor"/></svg>'
-)
-
-
 def keep_focus(n):
     """Put the cursor in the chat box on page load and after every answer.
     n changes each turn so the script runs again."""
@@ -254,7 +245,7 @@ question = st.session_state.pop("pending", None) or typed
 
 if not history and not question:
     st.markdown(
-        f'<div class="hello">{MARK}<h1>What is your doubt today?</h1>'
+        f'<div class="hello"><h1>What is your doubt today?</h1>'
         "<p>Ask about any subject. I find the subject, explain it, and list places to read more.</p></div>",
         unsafe_allow_html=True,
     )
